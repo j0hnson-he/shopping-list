@@ -1,0 +1,1 @@
+|1, Apple, 8, 1.25| 5, Milk,2, 3.27 |6,Dish Soap, 1, 1.75|7, Tooth Paste, 2, 3.25|3,Cake,2,4.50|1, Red Potato, 4.5, 0.95|2, Turkey, 1.4, 4.95|4, Apple Sauce, 1, 2.99|7, Hair Spray,1, 5.95|3,Ground Turkey, 2.25,5.95|6, Light Bulb, 6, 2.25|2, Swiss Cheese, 0.5 , 5.99|1,Grapes,1.5,2.77|
